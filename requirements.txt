@@ -1,0 +1,8 @@
+flask
+python-dotenv
+langchain==0.0.55
+requests
+openai
+transformers
+faiss-cpu
+decouple
